@@ -1,0 +1,34 @@
+.student{
+    color:red;
+}
+#chakri{
+ font-size: 30px;
+ color: ash;
+}
+p::first-letter{
+    color: green;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+h3::first-letter{
+    font-size: 60px;
+    color: brown;
+    text-decoration: aqua;
+}
+
+button{
+    height: 45px;
+    width:150px;
+    font-size: 32px;
+    background-color: black;
+    color:white;
+    border-radius: 30px;
+}
+button:hover{
+    color:blue;
+}
+button{
+margin:40px 30px 20px 20px;
+border: 5px solid red;
+}
+
